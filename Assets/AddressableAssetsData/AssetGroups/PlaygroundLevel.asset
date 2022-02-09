@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: PlaygroundLevel
+  m_EditorClassIdentifier: 
+  m_GroupName: PlaygroundLevel
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 67eca551f783905418d1c50ede42b841
+  m_SerializeEntries:
+  - m_GUID: 64dce48905ffd9b4293e595fa6941544
+    m_Address: Assets/StarterAssets/ThirdPersonController/Prefabs/PlayerArmature.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 766fd3ff04aab4745a764d33daac86fa
+    m_Address: Assets/StarterAssets/ThirdPersonController/Character/Materials/M_Armature_Arms.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 43714b68324cc2c409d534d9874f2a2b
+    m_Address: Assets/StarterAssets/ThirdPersonController/Character/Materials/M_Armature_Body.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8b25e99361ac31d4e9ae83c46aee69ea
+    m_Address: Assets/StarterAssets/ThirdPersonController/Character/Materials/M_Armature_Legs.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 90a7e30100375104e91c5d99bb2e7e54
+    m_Address: Assets/Textures/UnityLogo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ebdeb806ff22f124d980e436b09c3835
+    m_Address: Assets/Audio/bgmusic.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 54e36f63658eab742bac67ac5a9a608a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: faded59bfe16f5747815d9478e7fca0c, type: 2}
+    - {fileID: 11400000, guid: 1cc00153df643964f83ca9c1051f0518, type: 2}
